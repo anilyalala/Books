@@ -44,3 +44,5 @@ I am creating a CI/CD pipeline that will automate the integration and deployment
     - Build the Docker images.
     - Push the Docker images to a registry.
     - Deploy to a Swarm.
+    
+![CICD](https://user-images.githubusercontent.com/105712346/178313477-ad1b403a-ff0e-4910-8fc3-90527b0b32b8.png)
