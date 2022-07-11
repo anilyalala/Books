@@ -3,7 +3,6 @@
 
 Concepts and Technologies
 
-
     Project Management - Trello
     Python Fundamentals
     Python Testing - Pytest
