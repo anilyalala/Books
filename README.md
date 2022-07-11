@@ -49,3 +49,7 @@ I am creating a CI/CD pipeline that will automate the integration and deployment
 
 # Project Management - Trello
 
+I used Trello for project tracking to create a project tracking board. Items were assigned story points, acceptance criteria and MoSCoW prioritisation, and moved from Backlog, to To Do, to In Progress and then to Done as the project progressed. The state of my Trello board at the beginning of the project:
+
+
+# Risk Assessment
