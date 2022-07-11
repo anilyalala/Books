@@ -34,7 +34,7 @@ I have choosen to create a Library web application using Flask application that 
 
 I am using MySQL database to store the user input data and to retrive the data when needed. I have designed the database to have two tables one is Books Table and another is Authors table. These two tables will have a one-to-many relationship
 
-![Database 2](https://user-images.githubusercontent.com/105712346/178298212-f4d97281-dc97-4813-9117-3473c985e601.png)
+![Database 3](https://user-images.githubusercontent.com/105712346/178305565-a905da68-f38e-426f-bc45-cc7f3b2761c6.png)
 
 # CI/CD Pipeline
 
