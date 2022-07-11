@@ -45,7 +45,7 @@ I am creating a CI/CD pipeline that will automate the integration and deployment
     - Push the Docker images to a registry.
     - Deploy to a Swarm.
     
-![CICD](https://user-images.githubusercontent.com/105712346/178313477-ad1b403a-ff0e-4910-8fc3-90527b0b32b8.png)
+![CICD](https://user-images.githubusercontent.com/105712346/178314600-039fc219-1d4c-4d62-8624-e3125bc4270f.png)
 
 # Project Management - Trello
 
