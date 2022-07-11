@@ -21,7 +21,8 @@ The objective of this project is to achieve the following:
 
     - Create a Web Application that integrates with a Database and demonstrates CRUD functionality.
     - Utilise Containers to host and deploy the application.
-    - Create a Continuous Integration (CI)/Continuous Deployment (CD) pipeline that will automatically test, build and deploy the application.
+    - Create a Continuous Integration (CI)/Continuous Deployment (CD) pipeline 
+      that will automatically test, build and deploy the application.
 
 # Application
 
@@ -39,7 +40,7 @@ I am using MySQL database to store the user input data and to retrive the data w
 
 I am creating a CI/CD pipeline that will automate the integration and deployment of new code. I am using Jenkins for automation server. A CI/CD pipeline automates the process of software delivery. It builds code, runs tests, and helps to safely deploy a new version of the software. Every time I push new code in my GitHub repository, the pipeline should be triggered. This can be achieved using a GitHub Webhook. The main aim of CI/CD pipeline is to achieve:
 
-    Run unit tests.
-    Build the Docker images.
-    Push the Docker images to a registry.
-    Deploy to a Swarm.
+    - Run unit tests.
+    - Build the Docker images.
+    - Push the Docker images to a registry.
+    - Deploy to a Swarm.
