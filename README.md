@@ -51,8 +51,6 @@ I am creating a CI/CD pipeline that will automate the integration and deployment
 
 I used Trello for project tracking to create a project tracking board. Items were assigned story points, acceptance criteria and MoSCoW prioritisation, and moved from Backlog, to To Do, to In Progress and then to Done as the project progressed. The state of my Trello board at the beginning of the project:
 
-![image](https://user-images.githubusercontent.com/105712346/178345113-88c8df27-72d2-4af5-b705-1c989212c415.png)
-
 
 
 
