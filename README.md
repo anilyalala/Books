@@ -1,4 +1,4 @@
-# Library
+# Books
 # Author : Anil Yalala
 
 # Concepts and Technologies
@@ -26,7 +26,7 @@ The objective of this project is to achieve the following:
 
 # Application
 
-I have choosen to create a Library web application using Flask application that serves both the frontend and backend of the application. The frontend aspect of the app will use HTML templates to serve the web pages that allow the user to perform CRUD functionality with information from the database. The backend aspect of the application will use SQLAlchemy to model and integrate with MySQL database. This application will be hosted in a container to allow it to be deployed to a Docker Swarm.
+I have choosen to create a Books web application using Flask application that serves both the frontend and backend of the application. The frontend aspect of the app will use HTML templates to serve the web pages that allow the user to perform CRUD functionality with information from the database. The backend aspect of the application will use SQLAlchemy to model and integrate with MySQL database. This application will be hosted in a container to allow it to be deployed to a Docker Swarm.
 
 ![Untitled Diagram-Page-1 drawio](https://user-images.githubusercontent.com/105712346/178278022-e4f600a1-6af8-4ed0-a39d-2398c481888d.png)
 
