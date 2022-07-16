@@ -53,6 +53,7 @@ I used Trello for project tracking to create a project tracking board. Items wer
 
 ![image](https://user-images.githubusercontent.com/105712346/178536554-217ad649-997c-4728-9239-0039b23e933f.png)
 
+![image](https://user-images.githubusercontent.com/105712346/179349352-d624f936-9ad1-4d00-bce0-d4f8b0aebdfa.png)
 
 
 # Risk Assessment
