@@ -3,17 +3,28 @@
 
 
 {% block content %}
+<div>
+<a href="{{ url_for('add_author') }}"><button>Add Author</button></a>
 
 
+<a href="{{ url_for('add_book') }}"><button>Add Book</button></a>
 
-
-
-
-{% for author in list1 %}
-<p>Name: {{ author.first_name }} {{ author.last_name }}</p>
-<div><a href="{{ url_for('delete', id=owner.id) }}"><button>Delete</button></a><a href="{{ url_for('update', id=author.id) }}"><button>Update</button></a></div>
+<br>
+{% for authors in list1 %}
+<p>Name: {{ authors.first_name }} {{ authors.last_name }}</p>
+<a href="{{ url_for('updateAuthor', id=authors.id) }}"><button>Update</button></a><a href="{{ url_for('deleteAuthor', id=authors.id) }}"><button>Delete</button></a>
+<br>
 {% endfor %}
+<br>
+<br>
 
+{% for books in list2 %}
+<p>Book Title: {{ books.book_title }}</p>
+<p>Author: {{ books.authorbr.first_name }} {{ books.authorbr.last_name }}</p>
+<a href="{{ url_for('updateBook', id=books.id) }}"><button>Update</button></a><a href="{{ url_for('deleteBook', id=books.id) }}"><button>Delete</button></a>
+<br>
+{% endfor %}
+</div>
 
 
 

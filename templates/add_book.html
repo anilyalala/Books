@@ -6,25 +6,22 @@
 
 <div class="form">
    
-    <h1>Adding an Author!!!</h1>
+    <h1>Adding a Book!!!</h1>
     <br> 
     <form method="POST" action="">
         {{ form.hidden_tag() }}
 
-        {{ form.first_name.label }} {{ form.first_name }}
-        <br>
-
-        {{ form.last_name.label }} {{ form.last_name }}
-        <br>
-
         
+        {{ form.author.label }} {{ form.author }}
+        <br>
+
+        {{ form.book_title.label }} {{ form.book_title }}
+        <br>
+
         {{ form.submit }}
     </form>
 
 </div>
-
-
-
 
 
 {% endblock content %}
